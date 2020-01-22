@@ -1,6 +1,6 @@
 This is a reupload of a project I completed with:
 
-- Gem Angelo Lagman: https://github.com/gemlagman
+- Adam Tremarche: https://github.com/atremarc
 - Aashutosh Bajgain: https://github.com/aashutosh19
 - Jesus Garnica: https://github.com/MrAppleII
 - Juhi Kushwah: https://github.com/juhikushwah
