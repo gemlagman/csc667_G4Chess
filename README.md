@@ -5,7 +5,7 @@ This is a reupload of a project I completed with:
 - Jesus Garnica: https://github.com/MrAppleII
 - Juhi Kushwah: https://github.com/juhikushwah
 
-Project URL: http://54.153.84.211:8000/
+Project URL: 
 
 ## Description:
 
